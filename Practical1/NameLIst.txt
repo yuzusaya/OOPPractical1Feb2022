@@ -1,11 +1,13 @@
 ﻿1. Saya
-Ling Jia Ni
 2. Chua Jia Jun
 3. Shaun Ho
 4. Caleb
 5. Liu Kuang Ming	
 6. Jett Lai
 7. Samuel Tham Keat Hao
+8. Howard
+9. Wendy Ting
+8. Patrick Yung Qin Fu
 5. Liu Kuang Ming	
 6. Howard
 2. Cody Cheng Jing Zhi
@@ -16,3 +18,6 @@ Ling Jia Ni
 7. Liu Kuang Ming	
 8. Jett Lai
 9. Samuel Tham Keat Hao
+6. Howard
+8. Wendy Ting
+9.Ling Jia Ni
